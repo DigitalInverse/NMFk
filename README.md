@@ -1,2 +1,3 @@
 # NMFk
-Classification based on non-negative matrix factorization
+Classification based on non-negative matrix factorization.
+
